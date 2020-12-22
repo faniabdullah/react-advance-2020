@@ -1,5 +1,5 @@
 import React from 'react'
-import ThisComponent from './tutorial/1-useState/setup/5-useState-counter'
+import ThisComponent from './tutorial/2-useEffect/setup/1-useEffect-basics'
 
 const App = () => {
   return (
