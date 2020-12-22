@@ -1,5 +1,5 @@
 import React from 'react'
-import ExampleComponent from './tutorial/1-useState/setup/2-useState-basics'
+import ExampleComponent from './tutorial/1-useState/setup/3-useState-array'
 function App() {
   return (
     <div className='container'>
