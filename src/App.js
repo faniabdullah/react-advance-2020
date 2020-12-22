@@ -1,10 +1,11 @@
 import React from 'react'
-import ExampleComponent from './tutorial/1-useState/setup/3-useState-array'
-function App() {
+import ThisComponent from './tutorial/1-useState/setup/4-useState-object'
+
+const App = () => {
   return (
     <div className='container'>
       <h2>Advanced Tutorial</h2>
-      <ExampleComponent/>
+      <ThisComponent/>
     </div>
   )
 }
