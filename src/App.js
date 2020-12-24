@@ -1,10 +1,10 @@
 import React from 'react'
-import ThisComponent from './tutorial/3-conditional-rendering/setup/3-show-hide';
+import ThisComponent from './tutorial/4-forms/setup/1-controlled-inputs';
 
 const App = () => {
   return (
     <div className='container'>
-      <h2>Advanced Tutorial</h2>
+      <h2>Form</h2>
       <ThisComponent/>
     </div>
   )
