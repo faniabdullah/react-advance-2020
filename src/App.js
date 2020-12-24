@@ -1,10 +1,10 @@
 import React from 'react'
-import ThisComponent from './tutorial/9-custom-hooks/setup/1-fetch-example';
+import ThisComponent from './tutorial/10-prop-types/final/index';
 
 const App = () => {
   return (
     <div className='container'>
-      <h2>UseReducer</h2>
+      <h2>Prop-types</h2>
       <ThisComponent/>
     </div>
   )
