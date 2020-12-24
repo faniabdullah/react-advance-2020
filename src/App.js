@@ -1,5 +1,5 @@
 import React from 'react'
-import ThisComponent from './tutorial/8-useContext/setup/1-context-api';
+import ThisComponent from './tutorial/9-custom-hooks/setup/1-fetch-example';
 
 const App = () => {
   return (
