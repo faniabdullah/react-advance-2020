@@ -1,5 +1,5 @@
 import React from 'react'
-import ThisComponent from './tutorial/7-prop-drilling/setup/1-prop-drilling';
+import ThisComponent from './tutorial/8-useContext/setup/1-context-api';
 
 const App = () => {
   return (
