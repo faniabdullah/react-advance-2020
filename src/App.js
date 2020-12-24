@@ -1,10 +1,10 @@
 import React from 'react'
-import ThisComponent from './tutorial/11-react-router/setup/index';
+import ThisComponent from './tutorial/12-memo-useMemo-useCallback/setup';
 
 const App = () => {
   return (
     <div className='container'>
-      <h2>React Router</h2>
+      <h2>useMemo useCallback</h2>
       <ThisComponent/>
     </div>
   )
