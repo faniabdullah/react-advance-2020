@@ -1,10 +1,10 @@
 import React from 'react'
-import ThisComponent from './tutorial/5-useRef/setup/1-useRef-basics';
+import ThisComponent from './tutorial/6-useReducer/final/index';
 
 const App = () => {
   return (
     <div className='container'>
-      <h2>UseRef Basics</h2>
+      <h2>UseReducer</h2>
       <ThisComponent/>
     </div>
   )
