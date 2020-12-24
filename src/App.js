@@ -1,5 +1,5 @@
 import React from 'react'
-import ThisComponent from './tutorial/2-useEffect/setup/3-useEffect-fetch-data'
+import ThisComponent from './tutorial/3-conditional-rendering/setup/3-show-hide';
 
 const App = () => {
   return (
