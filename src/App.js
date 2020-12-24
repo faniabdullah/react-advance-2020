@@ -1,5 +1,5 @@
 import React from 'react'
-import ThisComponent from './tutorial/6-useReducer/final/index';
+import ThisComponent from './tutorial/7-prop-drilling/setup/1-prop-drilling';
 
 const App = () => {
   return (
